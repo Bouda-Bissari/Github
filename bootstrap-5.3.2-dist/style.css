@@ -18,7 +18,7 @@ body{
 }
 #navigat {
     --bs-bg-opacity: 0.5;
-    background-color: rgba(var(--bs-success-rgb), var(--bs-bg-opacity)) !important;
+    background-color: rgba(var(--bs-danger-rgb), var(--bs-bg-opacity)) !important;
   }
 #collapsibleNavbar li a:hover{
     color: red !important;
